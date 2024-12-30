@@ -1,4 +1,4 @@
-FROM mylifem807/Xmanleech:xman_hk
+FROM mylifem807/xmanleech:xman_hk
 
 WORKDIR /usr/src/app
 RUN chmod 777 /usr/src/app
