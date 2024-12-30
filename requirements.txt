@@ -1,4 +1,4 @@
-aiohttp
+aiohttp[speedups]
 aiofiles
 aioshutil
 anytree==2.8.0
@@ -10,6 +10,7 @@ cinemagoer
 cloudscraper
 cryptography
 dnspython
+electrogram
 feedparser
 flask
 gevent
@@ -25,12 +26,12 @@ motor
 mutagen
 markdown
 natsort
-pytz
 pillow
 psutil
 pybase64
 pycountry
 pymongo
+pyrofork==2.2.11
 pyrogram==2.0.106
 python-dotenv
 python-magic
@@ -42,4 +43,5 @@ tenacity
 tgcrypto
 uvloop
 xattr
-yt-dlp
+pytz
+yt-dlp==2023.10.13
