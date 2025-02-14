@@ -44,4 +44,4 @@ tgcrypto
 uvloop
 xattr
 pytz
-yt-dlp==2024.7.7
+yt-dlp[default,curl-cffi]
