@@ -32,7 +32,6 @@ pybase64
 pycountry
 pymongo
 pyrofork==2.2.11
-pyrogram==2.0.106
 python-dotenv
 python-magic
 qbittorrent-api
@@ -44,4 +43,4 @@ tgcrypto
 uvloop
 xattr
 pytz
-yt-dlp==2024.7.7
+yt-dlp[default,curl-cffi]
